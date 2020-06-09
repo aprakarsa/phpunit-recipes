@@ -1,0 +1,18 @@
+Full Recipe
+ [x] Has title
+ [x] Has all ingredients
+ [x] Has all instructions
+ [x] Has yield
+ [x] Has source
+ [x] Has tags
+
+Recipe Collection
+ [x] Can be with empty title
+ [x] Can be with title
+
+Recipes
+ [x] Can be created with empty title
+ [x] Add ingredient must received valid amount
+ [x] Add ingredient must received valid measurement
+ [x] Can call recipe directly
+
